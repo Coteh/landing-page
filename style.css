@@ -46,6 +46,11 @@ html, body {
 
 .portfolio-item {
     padding-bottom: 6pt;
+    text-align: center;
+}
+
+.portfolio-text {
+    margin: 0 20px;
 }
 
 .button {
